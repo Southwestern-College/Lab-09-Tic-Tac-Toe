@@ -44,7 +44,7 @@ public class TicTacToe {
         if (currentPlayer == X) {
             return O;
         }
-        return O;
+        return X;
     }
 
     public static void main(String[] args) {
